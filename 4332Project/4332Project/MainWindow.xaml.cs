@@ -34,7 +34,11 @@ namespace _4332Project
         {
             MessageBox.Show("Имя: Игнат\nВозраст: 18 лет");
         }
-
+        private void MukhametshinButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Имя: Азат\nВозраст: 18 лет\nГруппа: 4332\nКурс: 3\nСпециальность: Информационные технологии\nФакультет: Факультет информационных технологий");
+        }
+        
         private void ShowAuthorInfo_Click(object sender, RoutedEventArgs e)
         {
             var newForm = new Novikov_4332();
