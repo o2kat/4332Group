@@ -157,3 +157,6 @@ C:\Users\o2kat\OneDrive\3 курс\ИСРПО\2lab\4332Group\4332Project\4332Pro
 C:\Users\o2kat\OneDrive\3 курс\ИСРПО\2lab\4332Group\4332Project\4332Project\obj\Debug\4332Project.csproj.GenerateResource.cache
 C:\Users\o2kat\OneDrive\3 курс\ИСРПО\2lab\4332Group\4332Project\4332Project\obj\Debug\4332Project.csproj.CoreCompileInputs.cache
 C:\Users\o2kat\OneDrive\3 курс\ИСРПО\2lab\4332Group\4332Project\4332Project\obj\Debug\4332Project.csproj.ResolveComReference.cache
+C:\Users\o2kat\OneDrive\3 курс\ИСРПО\2lab\4332Group\4332Project\4332Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\o2kat\OneDrive\3 курс\ИСРПО\2lab\4332Group\4332Project\4332Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\o2kat\OneDrive\3 курс\ИСРПО\2lab\4332Group\4332Project\4332Project\obj\Debug\4332Proj.B427E62E.Up2Date
